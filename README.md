@@ -40,6 +40,12 @@ For example,<br/>
 3B is a Bicorn<br/>
 4B is a Jabberwock<br/>
 
+## Its Name
+302 to 314 is where the name of the legendz is stored.<br/>
+Same values are used characters just like in Nickname.<br/>
+However, in my testing, 314 cannot be anything but 'D4', otherwise the name will show up glitchy in the legendz selection screen (but shows normally after you select 'check' to view details of the selected legendz.)<br/>
+For example, Bicorn(バイコーン) is 8D 51 59 A4 7D then the rest is D4.<br/>
+
 
 ## Base stats addresses
 317 318 HP (for example, 9990 is stored as 999 in hex, so 03E7) (the highest the toy can show is 9990, anything above 9990 is shown as 4 asterisks) <br/>

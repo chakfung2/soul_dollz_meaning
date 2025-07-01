@@ -13,7 +13,7 @@ Just my notes on what the data inside a soul doll is (I don't mean to make it co
 7th sprite: 240 to 29F<br/>
 8th sprite: 2A0 to 2FF<br/>
 
-### Each sprite is 24 pixels wide and 32 pixels high. (different values seem to represents different tiles)<br/>
+### Each sprite is 24 pixels wide and 32 pixels high. (seemes to be some sort of bitmap)<br/>
 0 - 0F<br/>
 is responsible for the top 24*5 pixel row of a frame<br/>
 10 - 1F<br/>

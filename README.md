@@ -41,7 +41,7 @@ For example,<br/>
 4B is a Jabberwock<br/>
 
 ## Its Name
-302 to 314 is where the name of the legendz is stored.<br/>
+303 to 314 is where the name of the legendz is stored.<br/>
 Same values are used characters just like in Nickname.<br/>
 For example, Bicorn(バイコーン) is 8D 51 59 A4 7D then the rest is D4.<br/>
 However, in my testing, 314 cannot be anything but 'D4', otherwise the name will show up glitchy in the legendz selection screen (but shows normally after you select 'check' to view details of the selected legendz.) Maybe it marks the end of the name???<br/>

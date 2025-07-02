@@ -13,7 +13,7 @@ Just my notes on what the data inside a soul doll is (I don't mean to make it co
 7th sprite: 240 to 29F<br/>
 8th sprite: 2A0 to 2FF<br/>
 
-### Each sprite is 24 pixels wide and 32 pixels high. (seemes to be some sort of bitmap)<br/>
+### Each sprite is 24 pixels wide and 32 pixels high. (seems to be some sort of bitmap)<br/>
 0 - 0F<br/>
 is responsible for the top 24*5 pixel row of a frame<br/>
 10 - 1F<br/>
@@ -43,8 +43,9 @@ For example,<br/>
 ## Its Name
 302 to 314 is where the name of the legendz is stored.<br/>
 Same values are used characters just like in Nickname.<br/>
-However, in my testing, 314 cannot be anything but 'D4', otherwise the name will show up glitchy in the legendz selection screen (but shows normally after you select 'check' to view details of the selected legendz.)<br/>
 For example, Bicorn(バイコーン) is 8D 51 59 A4 7D then the rest is D4.<br/>
+However, in my testing, 314 cannot be anything but 'D4', otherwise the name will show up glitchy in the legendz selection screen (but shows normally after you select 'check' to view details of the selected legendz.) Maybe it marks the end of the name???<br/>
+
 
 
 ## Base stats addresses
@@ -61,7 +62,7 @@ CF is ?<br/>
 50 is ア ('a' in Katakana)<br/>
 55 is カ ('ka' in Katakana)<br/>
 
-## Added stats
+## Added stats (training)
 The 'format' of the values is the same as base stats.<br/>
 The max value you can get playing the toy is written in ().<br/>
 356 357 HP (5110(decimal), but because this is stored as 511(decimal), the corresponding value is 01 FF.)<br/>

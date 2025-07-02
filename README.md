@@ -1,6 +1,6 @@
 Just my notes on what the data inside a soul doll is (I don't mean to make it complete complete, someone can do it :P)<br/>
 **Currently doing all testing on a Talisdam**<br/>
-I do **NOT** have all the soul dolls, I **CANNOT** confirm and I do **NOT** claim that this structure is true for all of them.<br/>
+## I do **NOT** have all the soul dolls, I **CANNOT** confirm and I do **NOT** claim that this structure is true for all of them.<br/>
 
 
 ## There are 8 sprites for each legendz.

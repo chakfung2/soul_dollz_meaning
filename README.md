@@ -15,12 +15,8 @@ Just my notes on what the data inside a soul doll is (I don't mean to make it co
 8th sprite: 2A0 to 2FF<br/>
 
 ### Each sprite is 24 pixels wide and 32 pixels high. (seems to be some sort of bitmap)<br/>
-0 - 0F<br/>
-is responsible for the top 24*5 pixel row of a frame<br/>
-10 - 1F<br/>
-is the next row (6 pixel in height)<br/>
-...There are 8 sprites, so until 2FF...<br/>
-<br/>
+Each row seems to be grouped in 3s...
+
 There are 32 pixel is each sprite. Each sprite is seperated into 6 rows.<br/>
 1st row, 5 pixels in height<br/>
 2nd row, 6 pixels in height<br/>

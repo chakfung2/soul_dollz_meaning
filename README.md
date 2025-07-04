@@ -17,7 +17,7 @@ Just my notes on what the data inside a soul doll is (I don't mean to make it co
 ### Each sprite is 24 pixels wide and 32 pixels high. (seems to be some sort of bitmap)<br/>
 Each row seems to be grouped in 3s...
 
-There are 32 pixel is each sprite. Each sprite is seperated into 6 rows.<br/>
+There are 32 pixel is each sprite. Each sprite seems to be seperated into 6 rows. Not too sure.<br/>
 1st row, 5 pixels in height<br/>
 2nd row, 6 pixels in height<br/>
 3rd row, 5 pixels in height<br/>

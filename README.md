@@ -28,7 +28,7 @@ There are 32 pixel is each sprite. Each sprite seems to be seperated into 6 rows
 
 ## 302 (Thanks to Shonumi)
 This address is how the Talisdam recognises what the soul doll is.<br/><br/>
- **HOWEVER**, the name of the legendz is stored in the chip.(as of writing this, I haven't found where it is, but if you empty the chip, the name does not show.)<br/><br/>
+ **HOWEVER**, the name of the legendz is stored in the chip.<br/><br/>
  **ALSO**, it only change the close up sprite. (I tried changing nothing but this address from 3B(Bicorn) to 4B(Jabberwock), the close up sprite changes but everything else stay the exact same.(which seems to suggest the close up sprite is stored in the toy.))<br/><br/>
 For example,<br/>
 14 is a Manticore (Shares the same value with a Silver Manticore.) <br/>

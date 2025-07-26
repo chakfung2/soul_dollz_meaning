@@ -46,6 +46,7 @@ However, in my testing, 314 cannot be anything but 'D4', otherwise the name will
 
 
 ## Base stats addresses
+315 Attribute(Element) (01 Fire, 05 Light , 06 Dark)<br/>
 317 318 HP (for example, 9990 is stored as 999 in hex, so 03E7) (the highest the toy can show is 9990, anything above 9990 is shown as 4 asterisks) <br/>
 319 Magic  (for example, 990 is stored as 99 in hex, so 63)(the highest the toy can show is 990)<br/>
 31A Counter (ditto)(ditto)<br/>
@@ -84,6 +85,8 @@ For example, <br/>
 0E Default Attack　<br/>
 15 Default Cure<br/>
 1F Henka Necrom<br/>
+39 Volcano?Fire? Legion<br/>
+3A Tornado Legion<br/>
 3D Spritual Legion<br/>
 3E Necrom Legion<br/>
 (In battle, if you use a Legion of a different attribute to your legendz, it will still show the correct Legion for your legendz. For example, Bicorn attribute is Necrom, using Spritual Legion in battle shows Necrom Legion )<br/>
